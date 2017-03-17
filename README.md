@@ -16,7 +16,7 @@ _This is a portfolio site made to highlight and showcase chosen programming work
 
 ## Known Bugs
 
-_No known bugs at this time. However, site has not yet been thoroughly tested.
+No known bugs at this time. However, site has not yet been thoroughly tested.
 
 ## Support details
 
