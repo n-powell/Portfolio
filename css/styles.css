@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.about {
+  text-align: center;
+}
+
 #tools {
   font-style: italic;
+  font-weight: 300;
+}
+
+body h2 {
+  text-align: center;
 }
