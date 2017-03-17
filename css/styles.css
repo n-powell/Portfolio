@@ -24,12 +24,18 @@ body h2 {
   border-radius: 40px;
 }
 
-/*.footer {
 
-  height: 60px;
-  background-color: blue;
-}*/
+.top-buffer img {
+  margin-top: 50px;
+}
 
-.top-buffer {
-  margin-top: 40px;
+.phone img {
+  height: 200px;
+  float: right;
+}
+
+.email {
+  float: left;
+  font-weight: 600;
+  margin-right: 900px;
 }
