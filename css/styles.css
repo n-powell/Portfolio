@@ -1,5 +1,7 @@
 .jumbotron {
   text-align: center;
+  margin-top: 30px;
+  font-family: futura;
 }
 
 .about {
@@ -13,4 +15,10 @@
 
 body h2 {
   text-align: center;
+  font-family: futura;
+}
+
+.col-md-5 img {
+  height: 350px;
+  border-radius: 40px;
 }
